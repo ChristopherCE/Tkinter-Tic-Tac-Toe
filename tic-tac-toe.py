@@ -1,6 +1,5 @@
 '''
 Name: Christopher Alexman
-ID: 2694498
 Date: July 22, 2018
 Assignment 17 & 18
 Description: This program simulated the game tic-tac-toe using functions and tkinter. 
